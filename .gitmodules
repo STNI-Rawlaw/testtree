@@ -1,0 +1,3 @@
+[submodule "services/sub"]
+	path = services/sub
+	url = git@github.com:STNI-Rawlaw/testtree-sub.git
